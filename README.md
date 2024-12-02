@@ -1,0 +1,1 @@
+# Calculation-of-Electricity-generated-from-speed-breakers
